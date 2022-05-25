@@ -9,7 +9,7 @@ namespace LearnLINQAndConnection
     {
         public Database()
         {
-
+            // Empty on Purpose
         }
 
         public bool ExecuteQuery(SqlConnection conn, string QueryString)

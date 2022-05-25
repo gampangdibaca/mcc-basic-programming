@@ -5,6 +5,7 @@ using System.Text;
 
 namespace LearnLINQAndConnection.Repositories.Interface
 {
+    // Interface for Repository
     interface IRepository<T>
     {
         public void Create(T model);
