@@ -65,6 +65,8 @@ namespace LearnLINQAndConnection
 
             //var resultThree = ls.Any(s => s.Contains("H"));
             //Console.WriteLine(resultThree);
+			
+			// TEST COMMENT
             List<Employee> employees = new List<Employee>();
             SqlConnection conn;
             string ConnectionString;
